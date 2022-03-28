@@ -1,5 +1,0 @@
-<RCC>
-    <qresource prefix="/plugins/vertex_extractor" >
-        <file>icon.png</file>
-    </qresource>
-</RCC>
