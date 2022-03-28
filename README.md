@@ -1,4 +1,4 @@
-# vertex-extractor
+# Vertex Extractor Plugin
 
 This QGIS plugin helps to extract the specified vertices from a line or polygon.
 
