@@ -15,3 +15,9 @@ Enter the input layer.
 Enter the required vertices as comma seperated values.
 
 The requested indices will added as point layers in QGIS environment.
+
+# Authors
+
+<ul>
+<li> Abhinav A </li>
+  </ul>
